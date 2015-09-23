@@ -8,12 +8,12 @@ body {
     transform: perspective(800px);
 }
 .image {
-    width: 700px;
-    height: 380px;
+    width: 1000px;
+    height: 600px;
     position: absolute;
     top: 50%;
     left: 50%;
-    margin: -250px 0 0 -400px;
+    margin: -300px 0 0 -400px;
     border-radius: 5px;
     box-shadow: 0 45px 100px rgba(0, 0, 0, 0.4);
     overflow: hidden;
@@ -30,27 +30,27 @@ div[class*="layer-"] {
     transition: 0.1s;
 }
 .image .layer-1 {
-    background-image: url("img/sky.png");
+    background-image: url(img/sky.png);
 }
 .image .layer-2 {
-    background-image: url("img/backtrees.png");
+    background-image: url(img/backtrees.png);
 }
 .image .layer-3 {
     /*top: 0;
     bottom: 0;
     left: 0;
     right: 0;*/
-    background-image: url("img/middlemtn.png");
+    background-image: url(img/middlemtn.png);
 }
 .image .layer-4 {
-    background-image: url('img/superman.png');
+    background-image: url(img/superman.png);
 }
 .image .layer-5 {
-    background-image: url('img/girl.png');
+    background-image: url(img/girl.png);
 }
 .image .layer-6 {
-    background-image: url('img/leftmtn.png');
+    background-image: url(img/leftmtn.png);
 }
 .image .layer-7 {
-    background-image: url('img/grass.png');
+    background-image: url(img/grass.png);
 }
