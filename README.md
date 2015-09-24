@@ -7,7 +7,7 @@ A simple parallax effect on a cool image from [Kara Williams Photography](https:
 clone this repo:
 `git clone git@github.com:benmwilliams/maximusParallaximus.git`
 
-## Big thanks to
+## Sources
 * [Kara Williams](https://www.facebook.com/photosbykara) - photos and editing
 * Daniel and Asher Williams - artwork
 * [Marius Balaj](http://designmodo.com/apple-tv-effect/) - concept
