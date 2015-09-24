@@ -13,7 +13,7 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    margin: -300px 0 0 -400px;
+    margin: -400px 0 0 -500px;
     border-radius: 5px;
     box-shadow: 0 45px 100px rgba(0, 0, 0, 0.4);
     overflow: hidden;
@@ -33,7 +33,7 @@ div[class*="layer-"] {
     background-image: url(img/sky.png);
 }
 .image .layer-2 {
-    background-image: url(img/backtrees.png);
+    background-image: url(img/backtrees2.png);
 }
 .image .layer-3 {
     /*top: 0;
@@ -52,5 +52,5 @@ div[class*="layer-"] {
     background-image: url(img/leftmtn.png);
 }
 .image .layer-7 {
-    background-image: url(img/grass.png);
+    background-image: url(img/grass2.png);
 }
