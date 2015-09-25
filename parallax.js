@@ -4,8 +4,8 @@ var $image = $('.image'),
     h = $(window).height();
 
 $(window).on('mousemove', function(e) {
-    var offsetX = 0.5 - e.pageX / w,
-        offsetY = 0.5 - e.pageY / h,
+    var offsetX = 0.75 - e.pageX / w,
+        offsetY = 0.25 - e.pageY / h,
         offsetImage = $image.data('offset'),
         transformImage = 'translateY(' + (-offsetX * offsetImage) + 'px) rotateX(' + (-offsetY * offsetImage) + 'deg) rotateY(' + (offsetX * (offsetImage * 2)) + 'deg)';
 
