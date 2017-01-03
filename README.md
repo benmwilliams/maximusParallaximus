@@ -13,5 +13,6 @@ clone this repo:
 * [Marius Balaj](http://designmodo.com/apple-tv-effect/) - concept
 
 ## TODOs
+* work in a browser besides firefox desktop
 * clean up grass in foreground
 * work with accelerometer for mobile
